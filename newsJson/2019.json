@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Portugal afirma-se no top dos destinos mundiais também como palco de eventos e congressos",
+    "designation": "Congressos",
+    "image": "../images/newsImages/icca.jpg"
+  },
+  {
+    "title": "Em Lisboa a OMT convoca cidades de todo o mundo à cooperação para um turismo urbano sustentável e inclusivo",
+    "designation": "Sustentabilidade",
+    "image": "../images/newsImages/omt.jpg"
+  },
+  {
+    "title": "“Sous le Soleil du Portugal” | Portugal mostra-se em França",
+    "designation": "Promoção do destino",
+    "image": "../images/newsImages/souslesoleil.png"
+  },
+  {
+    "title": "Braga é o 2.º destino europeu do ano 2019",
+    "designation": "Prémios",
+    "image": "../images/newsImages/bragabestdestination.png"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "#BRELCOME: a Escócia tem uma mensagem para Portugal!",
+    "designation": "Promoção do destino",
+    "image": "../images/newsImages/beach.png"
+  },
+  {
+    "title": "Portugal melhor da Europa no ITB Earth Award 2019",
+    "designation": "Prémios",
+    "image": "../images/newsImages/earthaward.png"
+  },
+  {
+    "title": "Conta Satélite do Turismo 2017: consumo do Turismo representa 13,7% do PIB",
+    "designation": "Dados e estatísticas",
+    "image": "../images/newsImages/race.jpg"
+  },
+  {
+    "title": "Gala Michelin Portugal/Espanha 2019: mais 4 Estrelas Michelin para restaurantes portugueses",
+    "designation": "Gastronomia",
+    "image": "../images/newsImages/gastronomia.jpg"
+  }
+]
